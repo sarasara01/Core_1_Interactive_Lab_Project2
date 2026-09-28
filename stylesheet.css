@@ -1,0 +1,86 @@
+img {
+    display: block; margin-left: auto; margin-right: auto; border: 5px dotted #e4b2a6;
+    margin-bottom: 30px; margin-top: 30px;
+}
+.intro_image {display: flex; gap: 10px;}
+.mini_parfait {border: none;margin-top: -50px;}
+
+h1 {
+    text-align: center; font-family: "pf-pixelscript", sans-serif; font-weight: 500; font-style: normal;
+    font-size: 85px; color: #F5FAE1; letter-spacing: -2px; word-spacing: 50px;
+    margin-top: -25px;
+}
+
+.decorative-heading {text-align: center; margin-top: -60px; font-size: 95px; margin-bottom: 5px;
+    color: #5b47476a; letter-spacing: -20px; word-spacing: 180px;
+}
+
+.decorative-heading-2 {text-align: center; margin-top: -100px; font-size: 50px; margin-bottom: 5px;
+    color: #F5FAE1; letter-spacing: -2px; word-spacing: 180px;
+}
+.decorative-heading-3 {text-align: center; margin-top: -20px; font-size: 50px; margin-bottom: 5px;
+    color: #F5FAE1; letter-spacing: -2px; word-spacing: 180px;
+}
+
+
+h2 {font-family: "pixelify-sans", sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 45px;
+text-align: left;
+letter-spacing: -5px;
+word-spacing: 50px;
+margin-left: 100px;
+margin-top: -25px;
+margin-bottom: 25px;
+color: #F5FAE1;
+}
+.examples {color: #e4b2a6;}
+
+.candy {color: #e4b2a6; text-align: right; margin-right: 100px;margin-bottom: -50px; }
+.candy:hover { color: #F5FAE1;}
+
+.candy2 {color: #e4b2a6; text-align: left;margin-top: -200px; margin-bottom: 20px;}
+.candy2:hover { color: #F5FAE1;}
+
+.arrow {font-size: 35px; color: #5b4747af; margin-bottom: 100px; margin-top: -80px;
+}
+.arrow2 {font-size: 35px; color: #5b4747af; margin-bottom: 100px; margin-top: -25px;
+}
+
+p {font-family: "pixelify-sans", sans-serif;
+font-weight: 400;
+font-style: normal;
+text-align: center;
+font-size: 24px;
+color: #5b4747;
+}
+
+.line_of_steps {display: flex; gap: 2px;}
+.step_line {border: none; margin-top: -40px;}
+
+.introduction {margin: 50px; margin-bottom: 150px; background: #F5FAE1;
+padding: 40px; border-radius: 12px;
+}
+
+.buttons {display: flex; gap: 5px; justify-content: center;}
+.first_button {display: flex; justify-content: center;}
+
+a {text-decoration: none;}
+
+button {text-align: center; font-family: "pf-pixelscript", sans-serif;
+    font-weight: 500; font-style: normal; font-size: 18px; letter-spacing: 3px; padding: 15px; 
+    background-color: #5b4747;
+    color: #e4b2a6; border-radius: 12px; border: #e4b2a6; border-width: 3px; text-align: center;
+    margin-bottom: 100px;
+}
+
+button:hover {text-align: center; font-family: "pf-pixelscript", sans-serif;
+    font-weight: 500; font-style: normal; font-size: 18px; letter-spacing: 3px; padding: 15px; 
+    background-color: #e4b2a6;
+    color: #5b4747; border-radius: 12px; border: #e4b2a6; border-width: 3px; text-align: center;
+}
+
+body { background-image: linear-gradient(#e4b2a6, #EEE6CA);
+
+}
