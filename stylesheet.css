@@ -5,6 +5,12 @@ img {
 .intro_image {display: flex; gap: 10px;}
 .mini_parfait {border: none;margin-top: -50px;}
 
+.example1 {display: flex; margin-left: 200px; margin-right: 300px; gap: 50px;background:#e4b2a67b ;
+padding: 40px; border-radius: 12px;}
+.example2 {display: flex; margin-left: 300px; margin-right: 200px; gap: 50px;margin-top: -200px;background: #5b47477f;
+padding: 40px; border-radius: 12px;}
+.example2text {margin-top: 300px; text-align: right;color: #EEE6CA;}
+
 h1 {
     text-align: center; font-family: "pf-pixelscript", sans-serif; font-weight: 500; font-style: normal;
     font-size: 85px; color: #F5FAE1; letter-spacing: -2px; word-spacing: 50px;
@@ -21,6 +27,7 @@ h1 {
 .decorative-heading-3 {text-align: center; margin-top: -20px; font-size: 50px; margin-bottom: 5px;
     color: #F5FAE1; letter-spacing: -2px; word-spacing: 180px;
 }
+.bottom_decor {margin-top: 150px;}
 
 
 h2 {font-family: "pixelify-sans", sans-serif;
